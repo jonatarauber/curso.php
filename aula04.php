@@ -9,7 +9,7 @@
 <body>
 <div>
     <?php
-     $idade = 18;
+     $idade = 20;
      $nome = "Maria";
      $n = 4.5;
      echo "$nome tem $idade  anos!";
